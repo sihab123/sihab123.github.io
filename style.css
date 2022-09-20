@@ -1,14 +1,8 @@
-.body{
-	min-height: 60000px;
-
+.jumbotron {
+  padding: 6rem;
+  background-color: #e2edff;
 }
 
-
-.jumbotron{
-	padding: 6rem;
-	background-color: #e2edff;
-}
-
-.section{
-	padding-top: 5rem;
+.section {
+  padding-top: 9rem;
 }
